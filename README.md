@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I’m a programmer from Pernambuco/Brazil focused in WordPress and WooCommerce. 👋
 
 <!--
 **thiagoandradewp/thiagoandradewp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
