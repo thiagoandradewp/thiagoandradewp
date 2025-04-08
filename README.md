@@ -21,7 +21,7 @@
 </p>
 
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h3 align="center">🛠️ Tech Stack</h3>
 
 <p align="center">
   <!-- Linguagens -->
@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
 </p>
 
-<h2 align="center">📱 Contato e Redes Sociais</h2>
+<h3 align="center">📱 Contato e Redes Sociais</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiagoandradewp" target="_blank">
@@ -54,7 +54,7 @@
   <a href="https://profiles.wordpress.org/thiagoandradewp" target="_blank">
     <img src="https://img.shields.io/badge/WordPress.org-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@thiagoandradewp" target="_blank">
+  <a href="https://www.youtube.com/channel/UCLQTW6HgRWFDINJiK17eLpA?sub_confirmation=1" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://wa.me/5587988300984" target="_blank">
