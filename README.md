@@ -13,11 +13,11 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagoandradewp&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <h2 align="center">📌 Most Used Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=8&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoandradewp&layout=compact&langs_count=8&theme=default" alt="Top Languages" />
 </p>
