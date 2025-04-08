@@ -39,6 +39,11 @@
   <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thiagoandradewp&style=for-the-badge" alt="Contador de visitas" />
+</p>
+
+
 <h3 align="center">📱 Contato e Redes Sociais</h3>
 
 <p align="center">
